@@ -1,0 +1,2 @@
+def welcomeToPython():
+	print("Hello World!")
